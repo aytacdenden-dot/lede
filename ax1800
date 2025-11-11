@@ -1,0 +1,9 @@
+.config
+CONFIG_TARGET_ipq60xx=y
+CONFIG_TARGET_ipq60xx_generic_DEVICE_xiaomi_ax1800=y
+CONFIG_PACKAGE_luci=y
+CONFIG_PACKAGE_luci-app-adblock=y
+CONFIG_PACKAGE_adblock=y
+CONFIG_PACKAGE_luci-i18n-base-tr=y
+CONFIG_PACKAGE_luci-i18n-firewall-tr=y
+CONFIG_PACKAGE_luci-i18n-opkg-tr=y
